@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prasanth S | Mechanical Engineer</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            color: white;
+            text-align: center;
+        }
+        header {
+            padding: 50px;
+            background: #1e293b;
+        }
+        h1 {
+            font-size: 40px;
+        }
+        section {
+            padding: 40px;
+        }
+        .card {
+            background: #1e293b;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+        }
+        a {
+            color: #38bdf8;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hi 👋, I'm Prasanth S</h1>
+    <p>Mechanical Engineering Student 🔧</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>About Me</h2>
+        <p>I am a Mechanical Engineering student passionate about machines, design, and innovation.</p>
+        <p>Interested in Hydraulics, Thermodynamics, and Manufacturing.</p>
+    </div>
+
+    <div class="card">
+        <h2>Skills</h2>
+        <p>AutoCAD | SolidWorks | Engineering Drawing | MS Excel</p>
+    </div>
+
+    <div class="card">
+        <h2>Projects</h2>
+        <p>Coming Soon...</p>
+    </div>
+
+    <div class="card">
+        <h2>Contact</h2>
+        <p>📞 Phone: 6369870322</p>
+        <p>📧 Email: prasnthsudhakar92@gmail.com</p>
+        <p>GitHub: <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Prasanth S</p>
+</footer>
+
+</body>
+</html>
